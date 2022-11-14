@@ -1,0 +1,14 @@
+/home/bairamov/Programing/ApiFromBook/Entities/bin/Debug/net6.0/Entities.deps.json
+/home/bairamov/Programing/ApiFromBook/Entities/bin/Debug/net6.0/Entities.dll
+/home/bairamov/Programing/ApiFromBook/Entities/bin/Debug/net6.0/ref/Entities.dll
+/home/bairamov/Programing/ApiFromBook/Entities/bin/Debug/net6.0/Entities.pdb
+/home/bairamov/Programing/ApiFromBook/Entities/obj/Debug/net6.0/Entities.csproj.AssemblyReference.cache
+/home/bairamov/Programing/ApiFromBook/Entities/obj/Debug/net6.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/home/bairamov/Programing/ApiFromBook/Entities/obj/Debug/net6.0/Entities.AssemblyInfoInputs.cache
+/home/bairamov/Programing/ApiFromBook/Entities/obj/Debug/net6.0/Entities.AssemblyInfo.cs
+/home/bairamov/Programing/ApiFromBook/Entities/obj/Debug/net6.0/Entities.csproj.CoreCompileInputs.cache
+/home/bairamov/Programing/ApiFromBook/Entities/obj/Debug/net6.0/Entities.dll
+/home/bairamov/Programing/ApiFromBook/Entities/obj/Debug/net6.0/ref/Entities.dll
+/home/bairamov/Programing/ApiFromBook/Entities/obj/Debug/net6.0/Entities.pdb
+/home/bairamov/Programing/ApiFromBook/Entities/bin/Debug/net6.0/Entities.runtimeconfig.json
+/home/bairamov/Programing/ApiFromBook/Entities/obj/Debug/net6.0/Entities.genruntimeconfig.cache
